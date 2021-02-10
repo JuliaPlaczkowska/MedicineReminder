@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Medication Reminder</string>
+    <string name="enter_name">Enter drug name</string>
+    <string name="time">Set time</string>
+    <string name="OK">OK</string>
+    <string name="done">Done!</string>
+    <string name="delete">Delete</string>
+    <string name="main">Hello! How can I help you?</string>
+    <string name="add_new">new reminder</string>
+    <string name="view_list">view my list</string>
+
+</resources>
